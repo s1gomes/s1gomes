@@ -1,4 +1,5 @@
 # Olá, eu sou a Sara.
+Desenvolvedora mobile focada em Android.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Android" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
