@@ -1,5 +1,4 @@
-# Olá, eu sou a Sara.
-Desenvolvedora mobile especializada em Android.
+# Desenvolvedora mobile especializada em Android.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Android" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
@@ -9,13 +8,6 @@ Desenvolvedora mobile especializada em Android.
  <img align="center" alt="Rafa-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </div>
 
-
- <div> 
-  
-  ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1gomes&layout=compact)
-
-</div>
 
 ##
 <div>
